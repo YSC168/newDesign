@@ -3,10 +3,7 @@
 
 先上效果图：
 
-<img src="http://img.blog.csdn.net/20160710200140616" width = "300"  alt="图片名称" align=center />    
-<img src="http://img.blog.csdn.net/20160710200214538" width = "300"  alt="图片名称" align=center />
-<img src="http://img.blog.csdn.net/20160710200253055" width = "300"  alt="图片名称" align=center />  
-<img src="http://img.blog.csdn.net/20160710200353322" width = "300"  alt="图片名称" align=center />
+<img src="http://img.blog.csdn.net/20160710200140616" width = "300"  alt="图片名称" align=center />    <img src="http://img.blog.csdn.net/20160710200214538" width = "300"  alt="图片名称" align=center /><img src="http://img.blog.csdn.net/20160710200253055" width = "300"  alt="图片名称" align=center />  <img src="http://img.blog.csdn.net/20160710200353322" width = "300"  alt="图片名称" align=center />
 
 主界面上drawlayou 和NavigationView形成抽屉效果，布局文件如下：
 ```java
