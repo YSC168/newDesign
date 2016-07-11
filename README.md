@@ -3,8 +3,10 @@
 
 先上效果图：
 
-<img src="http://img.blog.csdn.net/20160710200140616" width = "300"  alt="图片名称" align=center />     <img src="http://img.blog.csdn.net/20160710200214538" width = "300"  alt="图片名称" align=center />
-<img src="http://img.blog.csdn.net/20160710200253055" width = "300"  alt="图片名称" align=center />   <img src="http://img.blog.csdn.net/20160710200353322" width = "300"  alt="图片名称" align=center />
+<img src="http://img.blog.csdn.net/20160710200140616" width = "300"  alt="图片名称" align=center />    
+<img src="http://img.blog.csdn.net/20160710200214538" width = "300"  alt="图片名称" align=center />
+<img src="http://img.blog.csdn.net/20160710200253055" width = "300"  alt="图片名称" align=center />  
+<img src="http://img.blog.csdn.net/20160710200353322" width = "300"  alt="图片名称" align=center />
 
 主界面上drawlayou 和NavigationView形成抽屉效果，布局文件如下：
 ```java
@@ -226,4 +228,5 @@ View mView= LayoutInflater.from(context).inflate(R.layout.item_demo_adapter,pare
 [源码下载](http://download.csdn.net/detail/forezp/9571175)
 
 我的微信公众号：行走的那些事，欢迎大家扫一扫。
+
 <img src="http://img.blog.csdn.net/20160616171116356" width = "200"  alt="行走的那些事" align=center />
